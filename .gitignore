@@ -1,0 +1,14 @@
+# Idea files
+.idea/
+*.iml
+
+# VSCode files
+.vscode/
+
+build/
+
+coverage.txt
+vendor/
+
+# OS
+.DS_Store
