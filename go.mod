@@ -15,7 +15,7 @@ require (
 	github.com/mitchellh/copystructure v1.0.0 // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/spf13/cobra v0.0.5
-	golang.org/x/crypto v0.0.0-20191002192127-34f69633bfdc // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	k8s.io/apimachinery v0.0.0-20191006235458-f9f2f3f8ab02 // indirect
 	k8s.io/helm v2.14.3+incompatible
 )
